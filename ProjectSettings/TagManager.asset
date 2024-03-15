@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zemin
+  - Collectible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3562523459
+    locked: 0
+  - name: midground
+    uniqueID: 2821694547
+    locked: 0
+  - name: engeller
+    uniqueID: 2486429379
+    locked: 0
+  - name: foreground
+    uniqueID: 3989994761
+    locked: 0
+  - name: collectible
+    uniqueID: 3182688091
+    locked: 0
